@@ -25,6 +25,11 @@ canvas {
     background-color: black;
 }
 
+h1 {
+    font-size: small;
+    font-family: "Poppings", serif;
+    color: #bdbaba;
+}
 
 .score {
     display: flex;
